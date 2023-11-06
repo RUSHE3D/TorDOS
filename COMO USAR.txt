@@ -1,0 +1,5 @@
+1. Inicia TOR
+2. Ten configurado el uso de SOCKS en el puerto http:\\127.0.0.1:9150
+3. Tenga las librerias request, socks. Con esto deberia ser suficiente si ocurre algun problema contactenos
+4. Selecciona la pagina web ( si la pagina web no es posible de conectase, saldra un error y dira que no es posible, 
+   por lo cual siempre compruebe la conexion con este.
