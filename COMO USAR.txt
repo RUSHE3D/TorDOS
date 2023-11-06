@@ -3,3 +3,6 @@
 3. Tenga las librerias request, socks. Con esto deberia ser suficiente si ocurre algun problema contactenos
 4. Selecciona la pagina web ( si la pagina web no es posible de conectase, saldra un error y dira que no es posible, 
    por lo cual siempre compruebe la conexion con este.
+
+
+IMPORTANTE: Esta adaptado para windows para linux hay que modificar algunos parametros
